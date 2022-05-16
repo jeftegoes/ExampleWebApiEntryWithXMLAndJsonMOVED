@@ -1,6 +1,6 @@
 ## What is this project
 
-This is a sample project showing how to accept body in format json (application/json) or xml (application/xml).
+This is a sample project showing how to accept body in format xml (application/xml) or json (application/json).
 
 ## Project type console
 
@@ -8,12 +8,18 @@ This is a sample project showing how to accept body in format json (application/
 
 ## How to test
 
+### Json
+
+![Console](/Images/JsonTest.png)
+
 ```
 {
     "name": "Chevrolet",
     "color": "White"
 }
 ```
+
+![Console](/Images/XmlTest.png)
 
 ```
 <Car>
