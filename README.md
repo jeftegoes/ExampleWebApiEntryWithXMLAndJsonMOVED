@@ -1,29 +1,19 @@
-## What is this project
-
-This is a sample project showing how to accept body in format xml (application/xml) or json (application/json).
-
-## Project type console
-
-.NET 6.0
-
-## How to test
-
-### Json
-
-![Console](/Images/JsonTest.png)
-
-```
-{
-    "name": "Chevrolet",
-    "color": "White"
-}
-```
-
-![Console](/Images/XmlTest.png)
-
-```
-<Car>
-    <Name>Chevrolet</Name>
-    <Color>White</Color>
-</Car>
-```
+- Problem-Solving Skills: Ability to analyze and solve complex technical problems logically and efficiently.
+- Technical Knowledge: Understanding of programming languages, frameworks, algorithms, data structures, and relevant technologies for the role.
+- Coding Skills: Coding proficiency by providing coding challenges or exercises to assess their ability to write clean, maintainable, and efficient code.
+- System Design: Ability to design scalable and efficient systems, considering various factors like performance, scalability, and security.
+- Debugging and Troubleshooting: Expertise in identifying and fixing bugs and issues in code or systems.
+- Code Review: Ability to review and provide constructive feedback on code written by others.
+- Version Control: Familiarity with version control systems (e.g., Git) and their understanding of branching, merging, and collaboration processes.
+- Test-Driven Development (TDD) or BDD: Follows best practices in writing tests before writing code.
+- Web Development: For web-related roles, evaluate skills in HTML, CSS, JavaScript, and familiarity with popular front-end frameworks and libraries (e.g., React, Angular, Vue.js).
+- Back-End Development: For back-end roles, assess proficiency in server-side technologies, databases, API development, and server deployment.
+- Object-Oriented Programming (OOP): Understanding and application of OOP principles like encapsulation, inheritance, and polymorphism.
+- Algorithms and Data Structures: Knowledge of common algorithms and data structures and their ability to choose the appropriate ones for specific problems.
+- Performance Optimization: Skills in optimizing code and systems for better performance and efficiency.
+- Security Awareness: Knowledge of secure coding practices and potential vulnerabilities in software systems.
+- Communication: Ability to explain technical concepts clearly and effectively, as well as their capacity to collaborate with team members.
+- Problem Decomposition: Can break down complex problems into smaller, manageable tasks.
+- Continuous Learning: Willingness and ability to stay updated with the latest technologies and industry trends.
+- Technical Documentation: Create clear and concise technical documentation for their code and projects.
+- The professional would used another type of vaga?
